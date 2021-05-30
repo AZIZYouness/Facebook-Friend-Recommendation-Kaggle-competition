@@ -9,5 +9,5 @@ We're trying to map this problem to a binary classification task with 0 implying
 ### Data Overview:
 Taken data from facebook's recruting challenge on kaggle 
 > https://www.kaggle.com/c/FacebookRecruiting
-- Data contains two columns: source and destination edge in the directed graph
+- Data contains two columns: source and destination edge in the directed graph.
 - We have 1.86 M nodes and 9.43M edges
